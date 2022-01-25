@@ -10,4 +10,5 @@ Arini, F. Y., Chiewchanwattana, S., Soomlek, C., & Sunat, K. (2022). Joint Oppos
 
 The other proposed algorithms (GWO-JOS, MFO-JOS, SOA-JOS, and WOA-JOS) still on submission process.
 
-Noted: The code set on CEC 2017. We include another competition package on CEC 2014. For the use of CEC 2014, only change the name of 'cec17_func' to 'cec14_func'. 
+Noted: The code set on CEC 2017 (Download:https://github.com/FlorentinaJOS/JOS_in_Optimization). 
+We also include another competition package on CEC 2014. For the use of CEC 2014, only change the name of 'cec17_func' to 'cec14_func'. 
