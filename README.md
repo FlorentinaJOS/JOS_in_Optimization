@@ -8,6 +8,8 @@ Cite As :
 
 Arini, F. Y., Chiewchanwattana, S., Soomlek, C., & Sunat, K. (2022). Joint Opposite Selection (JOS): A premiere joint of selective leading opposition and dynamic opposite enhanced Harris’ hawks optimization for solving single-objective problems. Expert Systems with Applications, 188. https://doi.org/10.1016/j.eswa.2021.116001
 
+Our journal above can be download in https://github.com/FlorentinaJOS/JOS_in_Optimization
+
 The other proposed algorithms (GWO-JOS, MFO-JOS, SOA-JOS, and WOA-JOS) still on submission process.
 
 Noted: The code set on CEC 2017 (Download:https://github.com/FlorentinaJOS/JOS_in_Optimization). 
